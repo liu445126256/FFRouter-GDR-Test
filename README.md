@@ -1,7 +1,7 @@
 # FFRouter-GDR-Test
-A simple test to see if it is possible for [FreeFlow](https://github.com/microsoft/Freeflow) router to work with GPU Direct RDMA (GDR) \
+A simple test to see if it is possible for [FreeFlow](https://github.com/microsoft/Freeflow) router to work with GPU Direct RDMA (GDR)
 ## Conclusion
-**Yes**
+**Yes.**
 ***
 ## Requirement
 ```
