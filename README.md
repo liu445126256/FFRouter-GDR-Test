@@ -3,7 +3,7 @@ A simple test to see if it is possible for [FreeFlow](https://github.com/microso
 ## Conclusion
 **Yes.**
 ***
-## Requirement
+## Requirements
 ```
 docker, nivida docker support, cuda library (drivers also), libibverbs (drivers also). 
 ```
