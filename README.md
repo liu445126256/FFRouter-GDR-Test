@@ -8,7 +8,7 @@ A simple test to see if it is possible for [FreeFlow](https://github.com/microso
 docker, nivida docker support, cuda library (drivers also), libibverbs (drivers also). 
 ```
 ## Architecture
-![procedure architecture](./doc/arch.png "Test procedure arch")
+![procedure architecture](https://github.com/liu445126256/FFRouter-GDR-Test/tree/main/doc/arch.png "Test procedure arch")
 ## Install
 Configure Makefile.
 ```
@@ -49,8 +49,8 @@ Log into container:peer and run the corresponding procedure. The peer connects t
 ```
 ## Results
 - On freeflow-router \
-![result-ffrouter](./doc/result-ffrouter.png "result-ffrouter")
+![result-ffrouter](https://github.com/liu445126256/FFRouter-GDR-Test/tree/main/doc/result-ffrouter.png "result-ffrouter")
 - On freeflow-client \
-![result-ffclient](./doc/result-ffclient.png "result-ffclient")
+![result-ffclient](https://github.com/liu445126256/FFRouter-GDR-Test/tree/main/doc/result-ffclient.png "result-ffclient")
 - On peer \
-![result-peer](./doc/result-peer.png "result-peer")
+![result-peer](https://github.com/liu445126256/FFRouter-GDR-Test/tree/main/doc/result-peer.png "result-peer")
