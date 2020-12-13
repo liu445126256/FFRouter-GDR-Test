@@ -13,7 +13,7 @@ docker, nivida docker support, cuda library (drivers also), libibverbs (drivers 
 Configure Makefile.
 ```
 gcc service.c -o service -g -I[path_to_your_cuda_include] -L[path_to_your_cuda_home]/lib64 -libverbs -lcudart
-gcc container.c -o container -g -I[path_to_your_cuda_include] -L[path_to_your_cuda_home]/lib64 -libverbs -lcudart
+gcc client.c -o client -g -I[path_to_your_cuda_include] -L[path_to_your_cuda_home]/lib64 -libverbs -lcudart
 ```
 Then **make**.
 ## Usage
